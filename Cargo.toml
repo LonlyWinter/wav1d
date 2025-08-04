@@ -1,0 +1,9 @@
+[package]
+name = "wav1d"
+version = "0.0.1"
+edition = "2024"
+license = "AGPL-3.0-or-later"
+repository = "https://github.com/LonlyWinter/wav1d"
+description = "A AV1 Decoder with Rust"
+
+[dependencies]
